@@ -11,6 +11,8 @@
 
 ```sh
 javac Main.java
+```
+```sh
 java Main
 ```
 ## Author
