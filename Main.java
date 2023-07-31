@@ -1,14 +1,9 @@
-import java.util.*;
-public class Main{
+public class Main extends OptionMenu{
 	public static void main(String[] args){
 		
-		Scanner input = new Scanner(System.in);
-
-		System.out.print("Enter name: ");
-
-		String name = input.nextLine();
-
-		System.out.println(name + " is a nigger");
+		OptionMenu option = new OptionMenu();
+		
+		option.Login();
 
 	}
 }
