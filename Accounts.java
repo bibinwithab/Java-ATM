@@ -1,7 +1,7 @@
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
-public class Accounts {
+public public class Accounts{
     private int AccountNumber;
     private int PinNumber;
 
