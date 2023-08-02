@@ -1,7 +1,7 @@
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
-public public class Accounts{
+public class Accounts{
     private int AccountNumber;
     private int PinNumber;
 
@@ -100,6 +100,11 @@ public public class Accounts{
 
         SavingsDeposit(amount);
         System.out.println("New Available Balance: " + format.format(savingsBalance));
+    }
+
+    public void exit(){
+        System.out.println("Thankyou for visiting us.");
+        System.exit(1);
     }
     
 }

@@ -50,7 +50,7 @@ public class OptionMenu extends Accounts {
                 getSavings();
                 break;
             case 3:
-                System.out.println("Thankyou for visiting us.");
+                exit();
                 break;
             default:
                 System.out.println("Invalid input.");
@@ -83,7 +83,7 @@ public class OptionMenu extends Accounts {
                 break;
             
             case 4:
-                System.out.println("Thankyou for visiting us.");
+                exit();
                 break;
 
             default:
@@ -118,7 +118,7 @@ public class OptionMenu extends Accounts {
                 break;
             
             case 4:
-                System.out.println("Thankyou for visiting us.");
+                exit();
                 break;
 
             default:
