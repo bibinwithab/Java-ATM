@@ -1,7 +1,7 @@
 import java.util.*;
 import java.text.DecimalFormat;
 
-public class OptionMenu extends Accounts {
+public class Menu extends Accounts {
     Scanner input = new Scanner(System.in);
     DecimalFormat format = new DecimalFormat("'$' ###,##0.00");
 
