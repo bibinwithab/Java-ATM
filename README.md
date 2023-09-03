@@ -1,6 +1,8 @@
 <h1 align="center">Welcome to cli ATM using Java 👋</h1>
 
 > I'm currently learing OOPs in java, so i created this repo as a fun project. collaborators are welcomed :)
+>
+> This Project is to make an automated Teller machine with user's Account Number, and Password, bank account, with that users can withdraw, deposit, and view their account balance.
 
 ## Run tests
 
