@@ -1,7 +1,7 @@
 public class Main extends OptionMenu{
 	public static void main(String[] args){
 		
-		OptionMenu option = new OptionMenu();
+		Menu option = new Menu();
 		
 		option.Login();
 
